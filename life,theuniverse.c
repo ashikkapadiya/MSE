@@ -1,3 +1,5 @@
+//this program is the solutionn for life the universe and everything
+
 #include<stdio.h>
 
 int main()
